@@ -1,0 +1,32 @@
+.nav {
+    background-color: #21222A;
+    padding: 1em .5em;
+}
+
+.nav ul {
+    color: white;
+    list-style: none;
+}
+
+
+.nav-title {
+    color: #00D8FF;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flex div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 40px;
+    object-fit: cover;
+    margin-right: 1em;
+}

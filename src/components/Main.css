@@ -1,0 +1,30 @@
+.main {
+    color: #fff;
+}
+
+.main h1 {
+    font-size: 2.5rem;
+    margin-top: 1.5em;
+}
+
+.react-facts-list li {
+    margin: 1em;
+}
+
+.react-facts-list li::marker {
+    color: #61DAFB;
+    font-size: 1.4rem;
+}
+
+/* .react-facts-list li span {
+    color: #fff;
+} */
+
+/* .react-facts-list li::before {
+    content: "\2022";
+    color: #61DAFB;
+    font-weight: bold;
+    display: inline-block;
+    width: 3em;
+    margin-left: -1em;
+} */

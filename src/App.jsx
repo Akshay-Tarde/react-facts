@@ -5,8 +5,7 @@ import Navbar from "./components/Navbar";
 
 export default function App() {
     return (
-        <div>
-            <h1>App works!</h1>
+        <div >
             <Navbar/>
             <Main/>
         </div>
