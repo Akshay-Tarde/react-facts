@@ -1,5 +1,9 @@
 .main {
     color: #fff;
+    background-image: url(../images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-blend-mode: multiply;
 }
 
 .main h1 {
